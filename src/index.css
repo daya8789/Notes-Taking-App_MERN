@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  margin-bottom: -9px;
+    margin-left: -8px;
+}
+
+.css-hyum1k-MuiToolbar-root {
+  margin: 20px;
+}
+
+.css-mhc70k-MuiGrid-root>.MuiGrid-item {
+  /* background-color:; */
+  font-size: 30px;
+}
+.css-mhc70k-MuiGrid-root {
+  margin-top: 10px !important;
+  margin-left: -8px !important;
+  background-color: aqua;
+}
+.css-gj1fbr-MuiGrid-root {
+  /* margin-top: 100px; */
+  background-color: grey;
+}
+.css-gj1fbr-MuiGrid-root a {
+  background-color: grey;
+  color: black;
+  margin: 15px;
+  padding: 15px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid white;
+}
+.css-gj1fbr-MuiGrid-root a:hover {
+  background-color: chartreuse;
+}
+.css-mhc70k-MuiGrid-root{
+  width: 100% !important;
+  height: 80vh;
+}
+.css-mhc70k-MuiGrid-root>.MuiGrid-item h3{
+  text-align: center;
+  padding-bottom: 30px;
+  border-bottom: 2px solid black;
+}
+.css-1ge9txp-MuiTableCell-root.MuiTableCell-head {
+  font-size: 20px;
+  padding: 20px;
+}
+.css-11k72hi-MuiTableCell-root.MuiTableCell-head {
+  font-size: 20px;
+  padding: 20px;
+}
+.css-mhc70k-MuiGrid-root>.MuiGrid-item{
+  padding-left: 0px !important;
+  padding-top: 0px !important;
+}
+.css-mhc70k-MuiGrid-root>.MuiGrid-item h1{
+  text-align: center;
+}
+/* .css-quj9j6-MuiTable-root :nth-child(odd) {
+  background-color: cadetblue;
+} */
+/* .css-apqrd9-MuiTableBody-root :nth-child(odd) {
+  background-color: blueviolet;
+} */
